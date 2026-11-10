@@ -488,6 +488,26 @@
     "energy": 25539
   },
   {
+    "name": "ナッツカレー(仮)",
+    "category": "カレー・シチュー",
+    "ingredients": [
+      {
+        "name": "ワカクサコーン",
+        "quantity": 15
+      },
+      {
+        "name": "ずっしりカボチャ",
+        "quantity": 10
+      },
+      {
+        "name": "ひとくちナッツ",
+        "quantity": 14
+      }
+    ],
+    "totalIngredients": 39,
+    "energy": 8554
+  },
+  {
     "name": "ヤドンテールのペッパーサラダ",
     "category": "サラダ",
     "ingredients": [
@@ -998,6 +1018,30 @@
     ],
     "totalIngredients": 95,
     "energy": 25356
+  },
+  {
+    "name": "ナッツサラダ(仮)",
+    "category": "サラダ",
+    "ingredients": [
+      {
+        "name": "あったかジンジャー",
+        "quantity": 30
+      },
+      {
+        "name": "あんみんトマト",
+        "quantity": 30
+      },
+      {
+        "name": "つやつやアボカド",
+        "quantity": 31
+      },
+      {
+        "name": "ひとくちナッツ",
+        "quantity": 30
+      }
+    ],
+    "totalIngredients": 121,
+    "energy": 27255
   },
   {
     "name": "じゅくせいスイートポテト",
@@ -1522,5 +1566,29 @@
     ],
     "totalIngredients": 115,
     "energy": 25484
+  },
+  {
+    "name": "ナッツデザート(仮)",
+    "category": "デザート・ドリンク",
+    "ingredients": [
+      {
+        "name": "とくせんエッグ",
+        "quantity": 25
+      },
+      {
+        "name": "おいしいシッポ",
+        "quantity": 18
+      },
+      {
+        "name": "ワカクサ大豆",
+        "quantity": 24
+      },
+      {
+        "name": "ひとくちナッツ",
+        "quantity": 24
+      }
+    ],
+    "totalIngredients": 91,
+    "energy": 23195
   }
 ]
