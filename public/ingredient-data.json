@@ -112,5 +112,11 @@
     "baseEnergy": 162,
     "effectiveEnergyMax": 963,
     "dreamShards": 6
+  },
+  {
+    "name": "ひとくちナッツ",
+    "baseEnergy": 124,
+    "effectiveEnergyMax": 737,
+    "dreamShards": 5
   }
 ]
